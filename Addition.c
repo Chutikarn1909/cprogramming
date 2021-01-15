@@ -15,7 +15,8 @@ void main(){
    scanf("%d",&num2);
 
    total = num1 + num2;
-   printf("Result is %d",total);
+   printf("Result is %d\n",total);
+   printf("Chutikarn Phayakkawong\n");
    
 //------------สิ้นสุดคำสั่งโปรแกรมบวกเลข----------//
 
